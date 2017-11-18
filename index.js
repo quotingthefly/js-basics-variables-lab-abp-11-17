@@ -1,1 +1,1 @@
-let companyName == "Scruber"
+let companyName == "Scuber"
